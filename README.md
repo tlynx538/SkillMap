@@ -17,7 +17,7 @@ Modern AI‑driven recruiting platforms (Workday, Oracle Taleo) no longer rely o
 This project mimics those extraction mechanics and provides an **interactive graph** that shows exactly where your Skills DNA is strong (clusters, edges, bridge nodes) and where it needs work (isolates, weak evidence).
 
 **Acknowledgement:** The core idea and methodology are based on the article  
-[“Why Engineers Need a Skill Graph, Not a List”](https://skillgraph.medium.com/why-engineers-need-a-skill-graph-not-a-list-3b15c682545e) by Vinayak Jaiwant Mooliyil.
+[“Why Engineers Need a Skill Graph, Not a List”](https://skillgraph.medium.com/why-engineers-need-a-skill-graph-not-a-list-3b15c682545e) by Skill Graph Team.
 
 ---
 
