@@ -86,7 +86,7 @@ API will be available at `http://localhost:8000`. Interactive docs: `http://loca
 ### 4. Frontend
 ```bash
 cd ../frontend
-yarn install
+yarn
 yarn dev
 ```
 Open `http://localhost:5173.`
